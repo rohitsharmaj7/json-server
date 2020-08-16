@@ -1,0 +1,15 @@
+{
+  "streams": [
+    {
+      "title": "Save 1",
+      "description": "Desc",
+      "id": 23
+    },
+    {
+      "title": "Stream 2",
+      "description": "Stresm 2 desc",
+      "userId": "107460171311094673918",
+      "id": 24
+    }
+  ]
+}
