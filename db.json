@@ -1,15 +1,9 @@
 {
   "streams": [
     {
-      "title": "Save 1",
-      "description": "Desc",
+      "title": "BMW",
+      "description": "Buying a car for my father by my own.",
       "id": 23
-    },
-    {
-      "title": "Stream 2",
-      "description": "Stresm 2 desc",
-      "userId": "107460171311094673918",
-      "id": 24
     }
   ]
 }
